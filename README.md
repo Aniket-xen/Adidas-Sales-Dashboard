@@ -1,5 +1,4 @@
 # Adidas-Sales-Dashboard
-
 Through this power BI driven analysis adidas aims to empower its decision making driven by insights , fostering strategic growth and competitiveness in dynamic sports and atletic industry. 
 -enhanced understanding of sales dynamic and performance driven.
 -identification of geographical areas with high and low sales potential.
